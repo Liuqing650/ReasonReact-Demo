@@ -8,4 +8,5 @@
 ### 打包输出
   在public下面，安装一个静态文件服务器 anywhere
   > npm install anywhere -g
+  启动静态文件
   > anywhere -p 8989
